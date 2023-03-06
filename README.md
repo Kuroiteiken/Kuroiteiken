@@ -9,8 +9,8 @@
     </tr>
     <tr>
         <td colspan="2" rowspan="2">
-        <a href="https://github-readme-stats.vercel.app/api?username=kuroiteiken&count_private=true&hide_border=true&show_icons=true&theme=dracula">
-        <img src="https://github-readme-stats.vercel.app/api?username=kuroiteiken&count_private=true&hide_border=true&show_icons=true&theme=dracula">
+        <a href="https://github-readme-stats.vercel.app/api?username=kuroiteiken&count_private=true&hide_border=true&show_icons=true&theme=prussian">
+        <img src="https://github-readme-stats.vercel.app/api?username=kuroiteiken&count_private=true&hide_border=true&show_icons=true&theme=prussian">
         </a>
         </td>
         <td colspan="2" rowspan="2">
