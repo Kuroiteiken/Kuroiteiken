@@ -1,44 +1,60 @@
-<table>
-    <tr>
-        <td colspan="2">
-        <strong><samp>Stats:</samp></strong>
-        </td>
-        <td colspan="2">
-        <strong><samp>Activity: </samp></strong>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" rowspan="2">
-        <a href="https://github-readme-stats.vercel.app/api?username=kuroiteiken&count_private=true&hide_border=true&show_icons=true&theme=prussian">
-        <img src="https://github-readme-stats.vercel.app/api?username=kuroiteiken&count_private=true&hide_border=true&show_icons=true&theme=prussian">
-        </a>
-        </td>
-        <td colspan="2" rowspan="2">
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=kuroiteiken&hide_border=true&theme=prussian">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiteiken&hide_border=true&theme=prussian">
-        </a>
-        </td>
-    </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Nihat</h1>
+<h3 align="center">Fullstack Developer | .NET • Flutter • DevOps</h3>
 
-<div align=center>
-<table>
-    <tr>
-        <td colspan="8">
-        <strong><samp>Skills:</samp></strong>
-        </td>
-    </tr>
-        <tr>
-        <td colspan="8">
-        <a href="https://dart.dev/"><img src="https://img.icons8.com/color/480/000000/dart.png" width=50></a>
-        <a href="https://flutter.dev/"><img src="https://img.icons8.com/color/480/000000/flutter.png" width=50></a>
-        <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" width=50></a>
-        <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/480/000000/android-studio.png" width=50></a>
-        <a href="https://www.figma.com/"><img src="https://img.icons8.com/color/480/000000/figma.png" width=50></a>
-        <a href="https://www.adobe.com/tr/products/xd.html"><img src="https://img.icons8.com/color/480/000000/adobe-xd--v1.png" width=50></a>
-        <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/480/000000/git.png" width=50></a>
-        <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/480/000000/firebase.png" width=50></a>            
-        </td>
-    </tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://github.com/kuroiteiken">
+    <img src="https://komarev.com/ghpvc/?username=kuroiteiken&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+- 💻 Fullstack developer (.NET Core, C#, Flutter)
+- 📱 Mobile & Web Apps
+- ⚙️ DevOps, Docker, CI/CD işleriyle kafayı bozmuş biri
+
+---
+
+### 📊 Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuroiteiken&show_icons=true&theme=prussian&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiteiken&theme=prussian&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,java,js,ts,nodejs,postgres,oracle,docker,kubernetes,git,linux" />
+</p>
+
+---
+
+### 🛠 Tools I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,figma,postman,github,gitlab" />
+</p>
+
+---
+
+### ⚡ What I'm Doing Now
+- 🔥 Scalable backend services
+- 🐳 Docker & container orchestration
+- ☁️ CI/CD pipelines (GitLab)
+- 📊 Observability (Grafana, Prometheus)
+
+---
+
+### 📫 Contact
+<p align="center">
+  <a href="mailto:nihattavsan@izmir.bel.tr">
+    <img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code. Break. Fix. Repeat."</i>
+</p>
