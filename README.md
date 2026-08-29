@@ -1,61 +1,154 @@
 <h1 align="center">Nihat Tavşan</h1>
-<h3 align="center">Fullstack Developer • .NET • Flutter • DevOps</h3>
+<h3 align="center">Software Development &amp; DevOps Lead</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+scalable+systems;Backend+%2B+Mobile+Developer;DevOps+Enthusiast" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kuroiteiken&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🧠 About Me
-I am a Fullstack Developer specializing in backend and mobile application development. I primarily work with .NET technologies to build scalable and maintainable backend services, while also developing cross-platform mobile applications using Flutter.
-
-I have hands-on experience in DevOps practices, including containerization with Docker and managing CI/CD pipelines. I focus on writing clean, efficient, and reliable code, and continuously aim to improve system performance and development workflows.
-
-I am always open to learning new technologies and enhancing my skill set to build better solutions.
-
----
-
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,java,js,ts,nodejs,postgres,oracle,docker,kubernetes,git,linux" />
+  <code>.NET</code> ·
+  <code>Backend Architecture</code> ·
+  <code>DevOps</code> ·
+  <code>Kubernetes</code> ·
+  <code>Distributed Systems</code> ·
+  <code>Observability</code> ·
+  <code>AI</code>
 </p>
 
 ---
 
-## 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,figma,postman,github,gitlab" />
+I build and operate backend systems end to end — from architecture and C#/.NET service
+development to CI/CD pipelines, containerized delivery, observability, and production
+operations. Most of my work sits where application engineering meets platform
+engineering: designing REST APIs, service integrations, and distributed,
+microservice-oriented backends, then building the delivery and runtime environments
+that keep them reliable in production.
+
+I lead software development and DevOps processes with a bias toward clean architecture,
+automation, and developer experience. Performance, reliability, observability, and
+secure software delivery are design constraints in my work, not afterthoughts.
+
+---
+
+## Core Expertise
+
+### ⚙️ Backend & Architecture
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="48" alt="C#, .NET" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/REST_APIs-2B3137?style=flat" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-2B3137?style=flat" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-2B3137?style=flat" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-2B3137?style=flat" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/API_Integrations-2B3137?style=flat" alt="API Integrations" />
+</p>
+
+### ☁️ DevOps & Platform Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx" height="48" alt="Docker, Kubernetes, Linux, Nginx" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Windows_Containers-0078D4?style=flat" alt="Windows Containers" />
+  <img src="https://img.shields.io/badge/IIS-0078D4?style=flat" alt="IIS" />
+</p>
+
+### 📊 Observability & Operations
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="48" alt="Grafana, Prometheus" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Application_Monitoring-2B3137?style=flat" alt="Application Monitoring" />
+  <img src="https://img.shields.io/badge/Infrastructure_Monitoring-2B3137?style=flat" alt="Infrastructure Monitoring" />
+  <img src="https://img.shields.io/badge/Logging-2B3137?style=flat" alt="Logging" />
+  <img src="https://img.shields.io/badge/Production_Troubleshooting-2B3137?style=flat" alt="Production Troubleshooting" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat" alt="Oracle" />
+</p>
+
+### 📱 Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java" height="48" alt="Flutter, Dart, Java" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+</p>
+
+### 🌐 Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs" height="48" alt="JavaScript, TypeScript, React, Next.js, Node.js" />
+</p>
+
+### 🤖 AI & Automation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI--Assisted_Development-2B3137?style=flat" alt="AI-Assisted Development" />
+  <img src="https://img.shields.io/badge/AI_Agents-2B3137?style=flat" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LLM_Integrations-2B3137?style=flat" alt="LLM Integrations" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-2B3137?style=flat" alt="Workflow Automation" />
+  <img src="https://img.shields.io/badge/Developer_Productivity-2B3137?style=flat" alt="Developer Productivity" />
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,postman,git,github,gitlab,figma" height="48" alt="Visual Studio, VS Code, Android Studio, Postman, Git, GitHub, GitLab, Figma" />
 </p>
 
 ---
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuroiteiken&show_icons=true&theme=prussian&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuroiteiken&theme=prussian&hide_border=true" height="150"/>
-</p>
+## What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroiteiken&layout=compact&theme=prussian&hide_border=true" height="150"/>
-</p>
+- Design and build maintainable .NET backend services, REST APIs, and system integrations.
+- Shape microservice-oriented and distributed architectures around clear service
+  boundaries and long-term maintainability.
+- Design CI/CD pipelines and containerized delivery workflows that carry code from
+  commit to production.
+- Containerize and operate applications on Docker and Kubernetes across Linux and
+  Windows Server environments, behind Nginx, Traefik, and IIS.
+- Make production behavior visible through Grafana, Prometheus, structured logging, and
+  metrics — and troubleshoot it when it breaks.
+- Automate repetitive engineering work and improve developer experience across the
+  delivery pipeline.
+- Build cross-platform mobile applications with Flutter, and web interfaces where the
+  product calls for them.
+- Apply AI agents and LLM integrations to development workflows and internal tooling.
+- Lead software development and DevOps processes across the full delivery lifecycle.
 
 ---
 
-## 🧪 Current Focus
+## Current Focus
+
 ```yaml
-backend:
-  - scalable api design
-  - microservices architecture
+current_focus:
+  architecture:
+    - scalable backend systems
+    - distributed services
+    - api design
 
-devops:
-  - docker
-  - gitlab ci/cd
-  - monitoring (grafana, prometheus)
+  platform:
+    - kubernetes and container platforms
+    - ci/cd automation
+    - observability
 
-frontend:
-  - flutter applications
+  engineering:
+    - developer experience
+    - performance and reliability
+    - secure software delivery
+
+  ai:
+    - coding agents
+    - llm integrations
+    - ai-assisted development
+```
